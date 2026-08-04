@@ -2,10 +2,6 @@
 
 Upload any PDF and ask questions about it. Answers are grounded in the document's actual content with source citations.
 
-## Live Demo
-
-[https://ai-pdf-chat.onrender.com](https://ai-pdf-chat-7lcm.onrender.com)
-
 ## How it works
 
 Uses RAG (Retrieval-Augmented Generation):
